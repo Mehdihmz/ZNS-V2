@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Roboto';
+    src: url('Roboto-Regular.ttf');
+    src: local('Roboto'), local('Roboto-Regular');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
